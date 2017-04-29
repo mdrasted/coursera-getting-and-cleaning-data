@@ -16,4 +16,4 @@ The R script, `run_analysis.R`, does the following:
 4. Reads the `train` and `test` datasets and extracts only the measurements on the mean and standard deviation that we want.
 5. Merges the training and test datasets and adds the new labels.
 6. Converts `activities` and `subjects` into factors.
-7. Writes the tidy dataset with the average of each variable to the file `tidydata.txt`.
+7. Writes the tidy dataset with the average of each variable to the file `tidy.txt`.
